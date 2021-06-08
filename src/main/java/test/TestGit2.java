@@ -1,7 +1,7 @@
 package test;
 
-public class TestGit {
+public class TestGit2 {
     public static void main(String[] args) {
-        int a = 5;
+        int b= 6;
     }
 }
