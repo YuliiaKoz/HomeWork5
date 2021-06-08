@@ -1,0 +1,21 @@
+This is Absolute File Path: C:\HomeWork5\src\main\resources\Shantaram.txt
+The Size of the file is: 885 kb
+
+This is all Attributes about the file: Shantaram.txt
+-creation Time of the file: 2021-06-02T16:18:04.758523Z;
+-last Accessed Time of the file:  2021-06-04T20:15:31.787162Z;
+-last Modified Time for the file:  2021-06-02T20:15:58.558448Z;
+-can you read this file:  true;
+-can you write this file:  true;
+-this file is hidden:  false;
+
+This text has 81164 of words;
+This text has 2603 of sentences;
+This text has 76329  of gaps;
+This text has 16579 of different punctuation;
+This text has 12213 words beginning from vowels.
+This text has 54283 words beginning from consonant.
+
+The ratio the Latin to Cyrillic words is 58800.0%
+The ratio the Latin to Cyrillic is 60900.0%;
+The ratio the Punctuation symbols to Another symbols is 400.0%
