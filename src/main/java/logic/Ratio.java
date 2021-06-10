@@ -8,10 +8,7 @@ public class Ratio {
     private Integer secondNumber;
     private Double resultOfRatio;
 
-
     public Ratio() {
-    }
-    public void Ratio2() {
     }
 
     public Ratio(Integer firstNumber, Integer secondNumber) {
