@@ -11,7 +11,7 @@ public class Ratio {
 
     public Ratio() {
     }
-    public void Ratio2() {
+    public void Ratio3() {
     }
 
     public Ratio(Integer firstNumber, Integer secondNumber) {
