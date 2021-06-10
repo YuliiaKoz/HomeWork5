@@ -10,6 +10,8 @@ public class Ratio {
 
     public Ratio() {
     }
+    public void lastBranch() {
+    }
 
     public Ratio(Integer firstNumber, Integer secondNumber) {
         this.firstNumber = firstNumber;
