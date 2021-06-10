@@ -14,6 +14,7 @@ public class Ratio {
     public void Ratio2() {
     }
 
+
     public Ratio(Integer firstNumber, Integer secondNumber) {
         this.firstNumber = firstNumber;
         this.secondNumber = secondNumber;
